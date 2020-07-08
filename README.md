@@ -1,6 +1,6 @@
 ## Reformatter for [pokernow.club](pokernow.club) logs.
 
-I made this script to reformat pokernow.club logs, since the current csv logs print out the
+I made this script to reformat [pokernow.club](pokernow.club) logs, since the current csv logs print out the
 card suits as ASCII gibberish. 
 I have instead made them into letters (C for club, D for diamond,
 S for spade, H for heart). This is still able to be analyzed visually and better lends itself for
