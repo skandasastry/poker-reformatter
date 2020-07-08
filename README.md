@@ -16,4 +16,4 @@ Run this python script on the command line like so:
 
 poker_reformatter.py <NAME_OF_POKERNOW_LOG.csv>
 
-The output will be <NAME_OF_POKERNOW_LOG>_formatted.csv
+The output will be named <NAME_OF_POKERNOW_LOG>_formatted.csv
