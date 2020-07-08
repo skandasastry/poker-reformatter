@@ -10,7 +10,7 @@ I would love if someone used this as a starting point to prove that [pokernow.cl
 generator that gives players really good hands (Quads, Full houses, flushes) at a much higher rate
 than the actual mathematical probability.
 
-###### Instructions:
+### Instructions:
 
 Run this python script on the command line like so:
 
