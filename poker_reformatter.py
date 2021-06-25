@@ -54,6 +54,10 @@ for event in events:
         eventStr = eventStr.replace(suitmap.get("club"), "C")
         eventStr = eventStr.replace(suitmap.get("heart"), "H")
         eventStr = eventStr.replace(suitmap.get("diamond"), "D")
+        eventStr = eventStr.replace("10S", "TS")
+        eventStr = eventStr.replace("10C", "TC")
+        eventStr = eventStr.replace("10H", "TH")
+        eventStr = eventStr.replace("10D", "TD")
     
     event[0] = eventStr
 
