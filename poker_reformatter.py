@@ -9,9 +9,7 @@
 
 
 
-import math
 import csv
-import os
 import argparse
 
 parser = argparse.ArgumentParser(description='Process some integers.')
